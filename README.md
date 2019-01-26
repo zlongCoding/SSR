@@ -1,8 +1,3 @@
-# vueSSR
-vue服务端渲染
+ssr
 
-vue-stage-0
-
-vue-stage-1
-
-vue-stage-2
+react-stage-0
