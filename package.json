@@ -10,7 +10,8 @@
     "clean": "rm -rf dist/",
     "dev:client": "cross-env NODE_ENV=development webpack-dev-server  --mode development --config build/webpack.config.client.js",
     "dev:server": "nodemon server/server.js",
-    "lint": "eslint --ext .jsx --ext .js client/"
+    "lint": "eslint --ext .jsx --ext .js client/",
+    "lint:fix": "eslint --fix --ext .jsx --ext .js client/"
   },
   "author": "",
   "license": "ISC",
