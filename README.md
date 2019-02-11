@@ -1,3 +1,3 @@
 ssr
 
-react-stage-0
+react-stage-1
